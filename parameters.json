@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "searchServices_search_doc_name": {
+            "value": null
+        },
+        "accounts_extract_doc_name": {
+            "value": null
+        },
+        "accounts_doc_summarize_name": {
+            "value": null
+        },
+        "storageAccounts_petrostoragehack_name": {
+            "value": null
+        },
+        "accounts_petronas_reports_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___petronas_reports_name": {
+            "value": null
+        },
+        "components_petronas_reports_externalid": {
+            "value": null
+        }
+    }
+}
